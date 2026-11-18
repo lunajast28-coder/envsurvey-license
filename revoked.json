@@ -1,10 +1,8 @@
 {
   "v": 1,
-  "serial": 4,
-  "issued": "2026-11-18T15:54:49",
-  "devices": [
-    "8371-F48C-2CFE-8832"
-  ],
+  "serial": 5,
+  "issued": "2026-11-18T17:32:10",
+  "devices": [],
   "password_revoked": false,
-  "sig": "1Sf7ZwJY-5XIV6s7pVSPhNcyVjnPwj1bm9jzxBP6gmSm2ML87eEVXZ0vVTpOIV96LTn4w4vTU861hjuJWvEvCA"
+  "sig": "Mpv9SJYT-KTbcBbvP19fQ_FNEq54OYglVzjhA_45-2kqAIplhIRY368B95YyjOUSz78TAHBXyYQmLqZEUdwgAQ"
 }
